@@ -1,4 +1,4 @@
-# Mobile Appplication Development on Flutter and Firebase
+# Mobile Application Development on Flutter and Firebase
 
 #### This repository contains all assignments and projects made during mobile development course taught by Sir Rao:
 
