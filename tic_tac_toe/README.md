@@ -2,4 +2,4 @@
 
 A simple Tic Tac Toe game on flutter and firebase
 
-![ezgif com-resize(1)](https://user-images.githubusercontent.com/121337662/230389091-77c5b82f-27ff-447f-89bc-c1920a21320b.gif)
+![ezgif com-resize(2)](https://user-images.githubusercontent.com/121337662/230389356-eda10141-f5e9-45c1-828c-ef2d3d68e2d0.gif)
