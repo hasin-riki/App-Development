@@ -1,1 +1,8 @@
-# App-Development on Flutter and Firebase
+# Mobile Appplication Development on Flutter and Firebase
+***
+
+#### This repository contains all assignments and projects made during mobile development course taught by Sir Rao:
+
+* [Tic Tac Toe](https://github.com/hasin-riki/App-Development/tree/main/tic_tac_toe): Flutter Development Bootcamp Project. A simple Tic Tac Toe game implemented with flutter and firebase
+
+
