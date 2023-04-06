@@ -1,4 +1,4 @@
-# tic_tac_toe
+# Tic Tac Toe
 
 A simple Tic Tac Toe game on flutter and firebase
 
