@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582723134921",
+    "project_id": "final-exam-a260c",
+    "storage_bucket": "final-exam-a260c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582723134921:android:b45ebe37e8669c0f6b3418",
+        "android_client_info": {
+          "package_name": "com.example.final_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582723134921-d3rcol5khvvjfmqpt5hie1ls6r45h49d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPyM_oFr0eXaroiELUSWIpXB34RqlYXkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582723134921-d3rcol5khvvjfmqpt5hie1ls6r45h49d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
